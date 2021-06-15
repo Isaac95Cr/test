@@ -1,0 +1,1 @@
+{"id":"user","name":"User","description":"This represents a user for my awesome app","fields":[{"id":"userId","name":"Id","description":"This is the user unique id","type":"String"},{"id":"name","name":"Name","type":"String"},{"id":"age","name":"Age","type":"Number"}]}
